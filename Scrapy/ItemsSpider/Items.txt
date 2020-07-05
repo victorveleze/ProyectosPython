@@ -1,0 +1,48 @@
+title: Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray (Latest Model)
+price: $899.99
+link: /MacBook-pulgadas-procesador-generaci%C3%B3n-espacial/dp/B0863D4XJW?dchild=1
+title: New Apple MacBook Pro (16-Inch, 16GB RAM, 512GB Storage) - Space Gray
+price: $2,149.00
+link: /Apple-MacBook-16-Inch-512GB-Storage/dp/B081FZV45H?dchild=1
+title: Apple 13" MacBook Air Core i5 CPU, 8GB RAM (2017 Model 128GB)
+price: $990.13
+link: /Apple-MacBook-1-8GHz-dual-core-Intel/dp/B07211W6X2?dchild=1
+title: Apple Macbook Air MJVM2LL/A Intel i5 1.6GHz 8GB 128GB (Renewed)
+price: $549.00
+link: /Apple-Macbook-MJVM2LL-1-6GHz-Renewed/dp/B07C57ZNMC?dchild=1
+title: (Renewed) Apple MacBook Pro MGX72LL/A 13.3 inches with Retina Display I5 4278u 2.6ghz 8GB, 128GB SSD
+price: $684.99
+link: /Apple-MacBook-MGX72LL-13-3-Inch-Refurbished/dp/B079NR2TH1?dchild=1
+title: (Renewed) Apple MacBook Pro MD101LL/A 13.3-inch Laptop (2.5Ghz, 4GB RAM, 500GB HD)
+price: $549.99
+link: /Apple-MacBook-MD101LL-13-3-inch-Refurbished/dp/B00VQR7MVQ?dchild=1
+title: (Renewed) Apple MacBook Air (13-inch Retina display, 1.6GHz dual-core Intel Core i5, 128GB) - Gold
+price: $849.00
+link: /Apple-MacBook-13-inch-display-dual-core/dp/B07NPTXDK7?dchild=1
+title: (Renewed) Apple MacBook Pro MD313LL/A 13.3-Inch Laptop Intel i5 2.4GHz 4GB Ram - 500GB HDD
+price: None
+link: /Apple-MacBook-MD313LL-13-3-Inch-Refurbished/dp/B07B9HQ5LG?dchild=1
+title: (Renewed) Apple MacBook Pro 13in Core i5 Retina 2.7GHz (MF840LL/A), 8GB Memory, 256GB Solid State Drive
+price: $688.74
+link: /Apple-MacBook-Retina-MF840LL-Renewed/dp/B077QWM132?dchild=1
+title: Apple MacBook Pro ME293LL/A 15.4-Inch Laptop with Retina Display (OLD VERSION) (Renewed)
+price: $749.00
+link: /Apple-MacBook-ME293LL-15-4-Inch-Refurbished/dp/B07FN5X9HJ?dchild=1
+title: Apple MD212LL/A 13-Inch MacBook ProLaptop with Retina Display (Renewed)
+price: $586.03
+link: /Apple-MD212LL-13-Inch-ProLaptop-Refurbished/dp/B0161ZDJVE?dchild=1
+title: Apple MMGG2LL/A MacBook Air 13.3-Inch Laptop (1.6 GHz Intel Core i5, 8GB RAM, 256GB SSD, Mac OS X V10.11 El Capitan), Silver (Renewed)
+price: $645.91
+link: /Apple-MMGG2LL-MacBook-Air-Refurbished/dp/B07HKMXSMF?dchild=1
+title: Apple Macbook Air MD231ll/A 13.3-inch Laptop Intel core I5 1.8GHz 4GB Ram, 128GB SSD (Renewed)
+price: $529.00
+link: /Apple-MacBook-Air-pulgadas-MD231ll/dp/B0161ZDBGC?dchild=1
+title: New Apple MacBook Pro (13-inch, 8GB RAM, 256GB SSD Storage, Magic Keyboard) - Space Gray
+price: $1,249.99
+link: /Apple-MacBook-13-inch-Storage-Keyboard/dp/B0882KD98F?dchild=1
+title: Apple MacBook Air 13.3in LED Laptop Intel i5-5250U Dual Core 1.6GHz 4GB 128GB SSD Early 2015 - MJVE2LL/A (Renewed)
+price: $619.97
+link: /Apple-MacBook-Air-Laptop-i5-5250U/dp/B07FTQMMGH?dchild=1
+title: Apple MacBook Air MJVM2LL/A 11.6 Inch Laptop (Intel Core i5 Dual-Core 1.6GHz up to 2.7GHz, 4GB RAM, 128GB SSD, Wi-Fi, Bluetooth 4.0, Integrated Intel HD Graphics 6000, Mac OS) (Renewed)
+price: $524.99
+link: /dp/B07BZF4MYM?dchild=1
